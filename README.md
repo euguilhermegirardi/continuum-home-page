@@ -10,6 +10,7 @@ This project has:
 - Many techniques with Bootstrap 4 that are used by real professionals,
 - An owl-carousel using Bootstrap 4,
 - Dropddown window built with JS showing a content with some info.
+- Media Queries for mobiles, tablets and desktops,
 
 
 It was tested in Google Chrome, Safari, Firefox, Opera and Microsoft Edge.
